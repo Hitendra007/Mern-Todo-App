@@ -1,0 +1,24 @@
+.todos{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    background-color: gray;
+    flex-direction: column;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+background-color: gray;
+}
+#checkbpx{
+    border: 2px solid greenyellow;
+    padding: 3px;
+    display: inline;
+}
+p{
+    padding: 3px;
+    display: inline;
+}

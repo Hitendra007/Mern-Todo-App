@@ -1,0 +1,23 @@
+.todoform {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray; /* Optionally, set a specific height or use 100% to take the full height */
+  }
+  
+  .todoform h1 {
+    display: block;
+    margin-bottom: 10px; /* Adjust the margin as needed */
+  }
+  #todoinput{
+    padding: 4px;
+    border: 1px solid skyblue;
+    border-radius: 4px;
+  }
+  button{
+    margin: 3px;
+    padding: 4px;
+    background-color: rgb(127, 168, 240);
+    border-radius: 4px;
+  }
