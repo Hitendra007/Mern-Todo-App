@@ -25,7 +25,7 @@ Follow the steps below to set up and run the MERN Todo App:
 
 1. **Clone the Repository**:
    ```bash
-   git clone (https://github.com/Hitendra007/Mern-Todo-App.git)
+   git clone https://github.com/Hitendra007/Mern-Todo-App.git
    ```
 
 2. **Client Setup**:
